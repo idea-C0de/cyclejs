@@ -1,6 +1,10 @@
 {
   "name": "@cycle/rxjs-run",
+<<<<<<< HEAD
   "version": "7.2.0",
+=======
+  "version": "8.0.0-rc.3",
+>>>>>>> refactor(rxjs-run): release candidate v8.0.0-rc.3
   "description": "The Cycle run() function meant to be used with RxJS v5",
   "license": "MIT",
   "homepage": "https://cycle.js.org",
